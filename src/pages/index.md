@@ -7,10 +7,7 @@ sections:
     title: Andrew McCaughan
     content: |
       Viewpoints and perspectives in leadership and software development
-    actions:
-      - label: Let's talk
-        url: /contact
-        style: button
+    actions: []
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
